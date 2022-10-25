@@ -1,0 +1,31 @@
+1) Data structure is way of organizing a data in computer program, so that it can be accessed efficiently 
+
+2) Data structure is a core of any large software system,
+
+3) Arrays,Linklist,Stack,Queues,graphs,Trees etc.
+
+4) Data structure is Independent of any programming languages and type of software either it is system sw or application sw.
+
+
+Types of data structure 
+
+
+1) physical data structure(meant for storing data)
+
+ a) Array
+ b) Linklist
+
+
+2) Logical data structure(meant for manipulating data)
+   All below data structure implemented using array or linklist
+
+  Linear data structure 
+  a) stack (LIFO)
+  b) queues (FIFO)
+
+  Non-linear data structure
+  c) tree
+  d) graph
+
+  Tabular data structure
+  e) hash table 
